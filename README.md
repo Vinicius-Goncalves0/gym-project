@@ -1,5 +1,8 @@
 # Trabalho: O Papel do Product Owner (PO) e do Scrum Master
 
+# Arquivo de orientação: 'Arquivo de orientação para a execução do projeto.docx'
+
+
 ## Introdução: A Missão do Aplicativo de Treinos
 
 Todo projeto ágil começa com uma necessidade. A nossa é clara: criar um sistema que ajude o usuário a armazenar, organizar e executar seus treinos diários. Neste trabalho, vamos detalhar o papel do **Product Owner (PO)** e do **Scrum Master** na construção deste App de Treinos.
